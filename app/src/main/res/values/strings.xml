@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pinfo</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editar">Editar Datos</string>
+    <string name="datos">Confirmar Datos</string>
+    <string name="nacimiento">Fecha Nacimiento:</string>
+    <string name="tel">Tel:</string>
+    <string name="mail">Email:</string>
+    <string name="desc">Descripción:</string>
+</resources>
